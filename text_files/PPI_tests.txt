@@ -1,0 +1,22 @@
+Co-immunoprecipitation
+immunoprecipitation
+Bimolecular fluorescence complementation
+BiFC
+Affinity electrophoresis
+immunoelectrophoresis
+Label transfer
+yeast two-hybrid
+Y2H
+Tandem affinity purification
+TAP
+Chemical cross-linking 
+SPINE
+QUICK
+Proximity ligation assay
+Static light scattering
+SLS
+Dynamic light scattering 
+DLS
+docking
+ITC
+MST

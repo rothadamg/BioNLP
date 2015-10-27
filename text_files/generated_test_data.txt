@@ -1,0 +1,2634 @@
+
+interleukin-1beta	5-lipoxygenase	32	ABCDK2RS	10022882
+effects of the inhibition of cyclo-oxygenase 1 or 2 or 5-lipoxygenase on the activation of the hypothalamic-pituitary-adrenal axis induced by [interleukin-1beta] in the male rat.
+
+il-4	interleukin-4	61	ABCDEFKL2R	10080532
+interleukin-4 (il-4) -524ct polymorphism has been implicated to alter the risk of colorectal cancer (crc), but the results are controversial
+
+mdm2	p53	96	ABCDEL2RSRSRSRSR	
+[mdm2] isoform b ([mdm2]-b), the [mdm2] isoform most frequently over-expressed in human tumours, interacts with full-length [mdm2] to inhibit [mdm2]-mediated mutp53 degradation, promoting mutp53 accumulation and gof in tumorigenesis
+
+p50	p65	80	ABCDEFKNQ1RSR	10080875
+[p50] binds to both nf-b sites at 1 h following il-1 exposure, but is replaced at 2 h by p65 in a549 cells and by a [p50]/p65 heterodimer in hbe cells
+
+traf2	cd40	59	ABCDEFKLN2R	
+cd40 signaling induces irak1 sumoylation in the presence of tnf receptor-associated factor 2 (traf2) and intracellular isoform of osteopontin (iopn) whereas tlr4 signaling provides ifn regulatory factor 5 (irf5) as a chaperone for sumoylated irak1 nuclear translocation
+
+mc1r	aqp11	
+No sentences with co-occurance found!
+
+pfn1p8	peli3	
+No sentences with co-occurance found!
+
+mc1r	aqp11	
+No sentences with co-occurance found!
+
+pfn1p8	peli3	
+No sentences with co-occurance found!
+
+hpca	tuba4a	
+No sentences with co-occurance found!
+
+mc1r	aqp11	
+No sentences with co-occurance found!
+
+mc1r	aqp11	
+No sentences with co-occurance found!
+
+pfn1p8	peli3	
+No sentences with co-occurance found!
+
+hpca	tuba4a	
+No sentences with co-occurance found!
+
+mc1r	aqp11	
+No sentences with co-occurance found!
+
+pfn1p8	peli3	
+No sentences with co-occurance found!
+
+mc1r	aqp11	
+No sentences with co-occurance found!
+
+hpca	tuba4a	
+No sentences with co-occurance found!
+
+pfn1p8	peli3	
+No sentences with co-occurance found!
+
+mir657	flj45743	
+No sentences with co-occurance found!
+
+hpca	tuba4a	
+No sentences with co-occurance found!
+
+elf1	dclk1	
+No sentences with co-occurance found!
+
+mir657	flj45743	
+No sentences with co-occurance found!
+
+mc1r	aqp11	
+No sentences with co-occurance found!
+
+wipf3	dsg2	
+No sentences with co-occurance found!
+
+elf1	dclk1	
+No sentences with co-occurance found!
+
+pfn1p8	peli3	
+No sentences with co-occurance found!
+
+mtnd3p8	slc6a10p	
+No sentences with co-occurance found!
+
+wipf3	dsg2	
+No sentences with co-occurance found!
+
+hpca	tuba4a	
+No sentences with co-occurance found!
+
+luc7l3p1	mtnd2p20	
+No sentences with co-occurance found!
+
+mtnd3p8	slc6a10p	
+No sentences with co-occurance found!
+
+hspa8p1	gapdhp72	
+No sentences with co-occurance found!
+
+luc7l3p1	mtnd2p20	
+No sentences with co-occurance found!
+
+ankrd32	arsk	
+No sentences with co-occurance found!
+
+hspa8p1	gapdhp72	
+No sentences with co-occurance found!
+
+clk2	snar-a10	
+No sentences with co-occurance found!
+
+ankrd32	arsk	
+No sentences with co-occurance found!
+
+runx1t1	dnmt1	
+No sentences with co-occurance found!
+
+clk2	snar-a10	
+No sentences with co-occurance found!
+
+c1orf94	oscp1	
+No sentences with co-occurance found!
+
+runx1t1	dnmt1	
+No sentences with co-occurance found!
+
+ldhap7	tagln2p2	
+No sentences with co-occurance found!
+
+mc1r	aqp11	
+No sentences with co-occurance found!
+
+c1orf94	oscp1	
+No sentences with co-occurance found!
+
+znf767p	pcdhb17	
+No sentences with co-occurance found!
+
+pfn1p8	peli3	
+No sentences with co-occurance found!
+
+ldhap7	tagln2p2	
+No sentences with co-occurance found!
+
+slc16a6	abca9	
+No sentences with co-occurance found!
+
+hpca	tuba4a	
+No sentences with co-occurance found!
+
+znf767p	pcdhb17	
+No sentences with co-occurance found!
+
+skap1	pard6a	
+No sentences with co-occurance found!
+
+mir657	flj45743	
+No sentences with co-occurance found!
+
+slc16a6	abca9	
+No sentences with co-occurance found!
+
+strap	csnk1g2p1	
+No sentences with co-occurance found!
+
+elf1	dclk1	
+No sentences with co-occurance found!
+
+skap1	pard6a	
+No sentences with co-occurance found!
+
+psmd5	galnt4	
+No sentences with co-occurance found!
+
+wipf3	dsg2	
+No sentences with co-occurance found!
+
+strap	csnk1g2p1	
+No sentences with co-occurance found!
+
+prkaca	bfar	
+No sentences with co-occurance found!
+
+psmd5	galnt4	
+No sentences with co-occurance found!
+
+farsa	ripk3	
+No sentences with co-occurance found!
+
+prkaca	bfar	
+No sentences with co-occurance found!
+
+kcnh4	iglcor22-1	
+No sentences with co-occurance found!
+
+farsa	ripk3	
+No sentences with co-occurance found!
+
+or11h6	ankrd30bp3	
+No sentences with co-occurance found!
+
+kcnh4	iglcor22-1	
+No sentences with co-occurance found!
+
+tomm20p2	tmem97p1	
+No sentences with co-occurance found!
+
+or11h6	ankrd30bp3	
+No sentences with co-occurance found!
+
+phbp14	t1560	
+No sentences with co-occurance found!
+
+tomm20p2	tmem97p1	
+No sentences with co-occurance found!
+
+gria1	slc4a2	
+No sentences with co-occurance found!
+
+phbp14	t1560	
+No sentences with co-occurance found!
+
+fhl3	rpl8p1	
+No sentences with co-occurance found!
+
+gria1	slc4a2	
+No sentences with co-occurance found!
+
+tra-agc17-1	optn	
+No sentences with co-occurance found!
+
+fhl3	rpl8p1	
+No sentences with co-occurance found!
+
+slc6a18	gapdhp41	
+No sentences with co-occurance found!
+
+tra-agc17-1	optn	
+No sentences with co-occurance found!
+
+dynll1-as1	rchts	
+No sentences with co-occurance found!
+
+slc6a18	gapdhp41	
+No sentences with co-occurance found!
+
+msh6	gpr75	
+No sentences with co-occurance found!
+
+dynll1-as1	rchts	
+No sentences with co-occurance found!
+
+aldh1a2	fam63b	
+No sentences with co-occurance found!
+
+msh6	gpr75	
+No sentences with co-occurance found!
+
+appl1	josd2	
+No sentences with co-occurance found!
+
+aldh1a2	fam63b	
+No sentences with co-occurance found!
+
+nwd2	styk1	
+No sentences with co-occurance found!
+
+appl1	josd2	
+No sentences with co-occurance found!
+
+katnbl1	dph6	
+No sentences with co-occurance found!
+
+nwd2	styk1	
+No sentences with co-occurance found!
+
+katnbl1	dph6	
+No sentences with co-occurance found!
+
+cdh3	cdh11	41	ABCDEL2S	
+[cdh3] and cdh11 are expressed by olfactory ensheathing glia, which surround osn axons in the outer ob
+
+trnar-ucg	ckap5	
+No sentences with co-occurance found!
+
+cdh3	cdh11	41	ABCDEL2S	
+[cdh3] and cdh11 are expressed by olfactory ensheathing glia, which surround osn axons in the outer ob
+
+rpa1	ccdc176	
+No sentences with co-occurance found!
+
+trnar-ucg	ckap5	
+No sentences with co-occurance found!
+
+dcr	mctp2	
+No sentences with co-occurance found!
+
+rpa1	ccdc176	
+No sentences with co-occurance found!
+
+cpsf1p1	fbxo48	
+No sentences with co-occurance found!
+
+dcr	mctp2	
+No sentences with co-occurance found!
+
+mc1r	aqp11	
+No sentences with co-occurance found!
+
+c14orf79	psors4	
+No sentences with co-occurance found!
+
+cpsf1p1	fbxo48	
+No sentences with co-occurance found!
+
+pfn1p8	peli3	
+No sentences with co-occurance found!
+
+vps45	hoxa9	
+No sentences with co-occurance found!
+
+c14orf79	psors4	
+No sentences with co-occurance found!
+
+hpca	tuba4a	
+No sentences with co-occurance found!
+
+tceb1p10	hibch	
+No sentences with co-occurance found!
+
+vps45	hoxa9	
+No sentences with co-occurance found!
+
+mir657	flj45743	
+No sentences with co-occurance found!
+
+ncr1	rpl23ap14	
+No sentences with co-occurance found!
+
+tceb1p10	hibch	
+No sentences with co-occurance found!
+
+elf1	dclk1	
+No sentences with co-occurance found!
+
+siglec6	cd37	
+No sentences with co-occurance found!
+
+ncr1	rpl23ap14	
+No sentences with co-occurance found!
+
+wipf3	dsg2	
+No sentences with co-occurance found!
+
+rrp7a	serhl	
+No sentences with co-occurance found!
+
+siglec6	cd37	
+No sentences with co-occurance found!
+
+mtnd3p8	slc6a10p	
+No sentences with co-occurance found!
+
+mki67p1	fam8a9p	
+No sentences with co-occurance found!
+
+rrp7a	serhl	
+No sentences with co-occurance found!
+
+luc7l3p1	mtnd2p20	
+No sentences with co-occurance found!
+
+rpl7ap25	riiad1	
+No sentences with co-occurance found!
+
+mki67p1	fam8a9p	
+No sentences with co-occurance found!
+
+trs-act1-1	mrpl23	
+No sentences with co-occurance found!
+
+rpl7ap25	riiad1	
+No sentences with co-occurance found!
+
+gsdma	fra8b	
+No sentences with co-occurance found!
+
+trs-act1-1	mrpl23	
+No sentences with co-occurance found!
+
+cnksr2	cxorf23	
+No sentences with co-occurance found!
+
+gsdma	fra8b	
+No sentences with co-occurance found!
+
+fam110d	chst2	
+No sentences with co-occurance found!
+
+cnksr2	cxorf23	
+No sentences with co-occurance found!
+
+casp7	ablim1	
+No sentences with co-occurance found!
+
+fam110d	chst2	
+No sentences with co-occurance found!
+
+ccl18	tp53	
+No sentences with co-occurance found!
+
+casp7	ablim1	
+No sentences with co-occurance found!
+
+dhrs9	mir520f	
+No sentences with co-occurance found!
+
+ccl18	tp53	
+No sentences with co-occurance found!
+
+rpl10p5	cox16	
+No sentences with co-occurance found!
+
+mc1r	aqp11	
+No sentences with co-occurance found!
+
+dhrs9	mir520f	
+No sentences with co-occurance found!
+
+mir1273e	cd8b	
+No sentences with co-occurance found!
+
+pfn1p8	peli3	
+No sentences with co-occurance found!
+
+rpl10p5	cox16	
+No sentences with co-occurance found!
+
+gage4	gage7	
+No sentences with co-occurance found!
+
+hpca	tuba4a	
+No sentences with co-occurance found!
+
+mir1273e	cd8b	
+No sentences with co-occurance found!
+
+dusp4	rbpms	
+No sentences with co-occurance found!
+
+mir657	flj45743	
+No sentences with co-occurance found!
+
+gage4	gage7	
+No sentences with co-occurance found!
+
+psd2	tm2d3	
+No sentences with co-occurance found!
+
+elf1	dclk1	
+No sentences with co-occurance found!
+
+dusp4	rbpms	
+No sentences with co-occurance found!
+
+app	ddx55	
+No sentences with co-occurance found!
+
+wipf3	dsg2	
+No sentences with co-occurance found!
+
+psd2	tm2d3	
+No sentences with co-occurance found!
+
+s100a12	spta1	
+No sentences with co-occurance found!
+
+app	ddx55	
+No sentences with co-occurance found!
+
+mtnd3p8	slc6a10p	
+No sentences with co-occurance found!
+
+cicp17	mir184	
+No sentences with co-occurance found!
+
+s100a12	spta1	
+No sentences with co-occurance found!
+
+ogn	tgfbr1	
+No sentences with co-occurance found!
+
+cicp17	mir184	
+No sentences with co-occurance found!
+
+cd1c	ddit4	
+No sentences with co-occurance found!
+
+ogn	tgfbr1	
+No sentences with co-occurance found!
+
+slc6a3	mrpl36	
+No sentences with co-occurance found!
+
+cd1c	ddit4	
+No sentences with co-occurance found!
+
+flvcr2	lilrb2	
+No sentences with co-occurance found!
+
+slc6a3	mrpl36	
+No sentences with co-occurance found!
+
+flvcr2	lilrb2	
+No sentences with co-occurance found!
+
+mc1r	aqp11	
+No sentences with co-occurance found!
+
+pfn1p8	peli3	
+No sentences with co-occurance found!
+
+hpca	tuba4a	
+No sentences with co-occurance found!
+
+mir657	flj45743	
+No sentences with co-occurance found!
+
+elf1	dclk1	
+No sentences with co-occurance found!
+
+wipf3	dsg2	
+No sentences with co-occurance found!
+
+mtnd3p8	slc6a10p	
+No sentences with co-occurance found!
+
+luc7l3p1	mtnd2p20	
+No sentences with co-occurance found!
+
+mdm2	tert	26	ABCDL2R	
+furthermore, the expression of genes that relate to aging, such as p53, p21 and bax, was decreased, while that of [mdm2] and tert genes was increased after treatment with lbps
+
+mdm2	tert	26	ABCDL2R	
+furthermore, the expression of genes that relate to aging, such as p53, p21 and bax, was decreased, while that of [mdm2] and tert genes was increased after treatment with lbps
+
+mc1r	aqp11	
+No sentences with co-occurance found!
+
+pfn1p8	peli3	
+No sentences with co-occurance found!
+
+hpca	tuba4a	
+No sentences with co-occurance found!
+
+mir657	flj45743	
+No sentences with co-occurance found!
+
+elf1	dclk1	
+No sentences with co-occurance found!
+
+wipf3	dsg2	
+No sentences with co-occurance found!
+
+mtnd3p8	slc6a10p	
+No sentences with co-occurance found!
+
+luc7l3p1	mtnd2p20	
+No sentences with co-occurance found!
+
+hspa8p1	gapdhp72	
+No sentences with co-occurance found!
+
+ankrd32	arsk	
+No sentences with co-occurance found!
+
+clk2	snar-a10	
+No sentences with co-occurance found!
+
+runx1t1	dnmt1	
+No sentences with co-occurance found!
+
+c1orf94	oscp1	
+No sentences with co-occurance found!
+
+ldhap7	tagln2p2	
+No sentences with co-occurance found!
+
+znf767p	pcdhb17	
+No sentences with co-occurance found!
+
+slc16a6	abca9	
+No sentences with co-occurance found!
+
+skap1	pard6a	
+No sentences with co-occurance found!
+
+strap	csnk1g2p1	
+No sentences with co-occurance found!
+
+psmd5	galnt4	
+No sentences with co-occurance found!
+
+prkaca	bfar	
+No sentences with co-occurance found!
+
+farsa	ripk3	
+No sentences with co-occurance found!
+
+kcnh4	iglcor22-1	
+No sentences with co-occurance found!
+
+or11h6	ankrd30bp3	
+No sentences with co-occurance found!
+
+tomm20p2	tmem97p1	
+No sentences with co-occurance found!
+
+phbp14	t1560	
+No sentences with co-occurance found!
+
+gria1	slc4a2	
+No sentences with co-occurance found!
+
+fhl3	rpl8p1	
+No sentences with co-occurance found!
+
+tra-agc17-1	optn	
+No sentences with co-occurance found!
+
+slc6a18	gapdhp41	
+No sentences with co-occurance found!
+
+dynll1-as1	rchts	
+No sentences with co-occurance found!
+
+msh6	gpr75	
+No sentences with co-occurance found!
+
+aldh1a2	fam63b	
+No sentences with co-occurance found!
+
+appl1	josd2	
+No sentences with co-occurance found!
+
+nwd2	styk1	
+No sentences with co-occurance found!
+
+katnbl1	dph6	
+No sentences with co-occurance found!
+
+cdh3	cdh11	41	ABCDEL2S	
+[cdh3] and cdh11 are expressed by olfactory ensheathing glia, which surround osn axons in the outer ob
+
+trnar-ucg	ckap5	
+No sentences with co-occurance found!
+
+rpa1	ccdc176	
+No sentences with co-occurance found!
+
+dcr	mctp2	
+No sentences with co-occurance found!
+
+cpsf1p1	fbxo48	
+No sentences with co-occurance found!
+
+c14orf79	psors4	
+No sentences with co-occurance found!
+
+vps45	hoxa9	
+No sentences with co-occurance found!
+
+tceb1p10	hibch	
+No sentences with co-occurance found!
+
+ncr1	rpl23ap14	
+No sentences with co-occurance found!
+
+siglec6	cd37	
+No sentences with co-occurance found!
+
+rrp7a	serhl	
+No sentences with co-occurance found!
+
+mki67p1	fam8a9p	
+No sentences with co-occurance found!
+
+rpl7ap25	riiad1	
+No sentences with co-occurance found!
+
+trs-act1-1	mrpl23	
+No sentences with co-occurance found!
+
+gsdma	fra8b	
+No sentences with co-occurance found!
+
+cnksr2	cxorf23	
+No sentences with co-occurance found!
+
+fam110d	chst2	
+No sentences with co-occurance found!
+
+casp7	ablim1	
+No sentences with co-occurance found!
+
+ccl18	tp53	
+No sentences with co-occurance found!
+
+dhrs9	mir520f	
+No sentences with co-occurance found!
+
+rpl10p5	cox16	
+No sentences with co-occurance found!
+
+mir1273e	cd8b	
+No sentences with co-occurance found!
+
+gage4	gage7	
+No sentences with co-occurance found!
+
+dusp4	rbpms	
+No sentences with co-occurance found!
+
+psd2	tm2d3	
+No sentences with co-occurance found!
+
+app	ddx55	
+No sentences with co-occurance found!
+
+s100a12	spta1	
+No sentences with co-occurance found!
+
+cicp17	mir184	
+No sentences with co-occurance found!
+
+ogn	tgfbr1	
+No sentences with co-occurance found!
+
+cd1c	ddit4	
+No sentences with co-occurance found!
+
+slc6a3	mrpl36	
+No sentences with co-occurance found!
+
+flvcr2	lilrb2	
+No sentences with co-occurance found!
+
+jak2	stat1	51	ABCDL2RSRS	
+jak2-v617f;stat1(-/-) double transgenic mice showed higher red cell parameters and lower platelet counts compared with jak2-v617f;stat1(+/+) mice
+
+eed	hspe1p12	
+No sentences with co-occurance found!
+
+jak2	stat1	51	ABCDL2RSRS	
+jak2-v617f;stat1(-/-) double transgenic mice showed higher red cell parameters and lower platelet counts compared with jak2-v617f;stat1(+/+) mice
+
+ccdc106	lrif1	
+No sentences with co-occurance found!
+
+eed	hspe1p12	
+No sentences with co-occurance found!
+
+slc6a7	dyz1l20	
+No sentences with co-occurance found!
+
+ccdc106	lrif1	
+No sentences with co-occurance found!
+
+trs-cga4-1	pgrmc2	
+No sentences with co-occurance found!
+
+slc6a7	dyz1l20	
+No sentences with co-occurance found!
+
+gtf2f1	rna5sp405	
+No sentences with co-occurance found!
+
+trs-cga4-1	pgrmc2	
+No sentences with co-occurance found!
+
+nfx1	nup153	
+No sentences with co-occurance found!
+
+gtf2f1	rna5sp405	
+No sentences with co-occurance found!
+
+skp1	tbl1x	
+No sentences with co-occurance found!
+
+nfx1	nup153	
+No sentences with co-occurance found!
+
+tulp3p1	mcop1	
+No sentences with co-occurance found!
+
+skp1	tbl1x	
+No sentences with co-occurance found!
+
+tulp3p1	mcop1	
+No sentences with co-occurance found!
+
+phf3	eys	27	ABCDP2	
+we previously reported a risk genomic region (ie, ptp4a1-phf3-eys) for alcohol dependence in a genome-wide association study (gwas)
+
+sgsm3	rbm22p11	
+No sentences with co-occurance found!
+
+phf3	eys	27	ABCDP2	
+we previously reported a risk genomic region (ie, ptp4a1-phf3-eys) for alcohol dependence in a genome-wide association study (gwas)
+
+trim35	rna5sp517	
+No sentences with co-occurance found!
+
+sgsm3	rbm22p11	
+No sentences with co-occurance found!
+
+bcl2l2	bid	
+No sentences with co-occurance found!
+
+trim35	rna5sp517	
+No sentences with co-occurance found!
+
+c3orf79	actg1p3	
+No sentences with co-occurance found!
+
+bcl2l2	bid	
+No sentences with co-occurance found!
+
+cds2	stt3b	
+No sentences with co-occurance found!
+
+c3orf79	actg1p3	
+No sentences with co-occurance found!
+
+linc01231	adcy10p1	
+No sentences with co-occurance found!
+
+cds2	stt3b	
+No sentences with co-occurance found!
+
+penk	imp4	
+No sentences with co-occurance found!
+
+linc01231	adcy10p1	
+No sentences with co-occurance found!
+
+snord124	rnu7-2p	
+No sentences with co-occurance found!
+
+penk	imp4	
+No sentences with co-occurance found!
+
+ddx24	krt18p49	
+No sentences with co-occurance found!
+
+snord124	rnu7-2p	
+No sentences with co-occurance found!
+
+ubiad1	znf275	
+No sentences with co-occurance found!
+
+ddx24	krt18p49	
+No sentences with co-occurance found!
+
+macom	or5b12	
+No sentences with co-occurance found!
+
+ubiad1	znf275	
+No sentences with co-occurance found!
+
+csf1r	thoc5	
+No sentences with co-occurance found!
+
+macom	or5b12	
+No sentences with co-occurance found!
+
+nacap5	exd3	
+No sentences with co-occurance found!
+
+csf1r	thoc5	
+No sentences with co-occurance found!
+
+mir559	il13ra1	
+No sentences with co-occurance found!
+
+nacap5	exd3	
+No sentences with co-occurance found!
+
+cd3g	eml2	
+No sentences with co-occurance found!
+
+mir559	il13ra1	
+No sentences with co-occurance found!
+
+ctsv	kcnj1	
+No sentences with co-occurance found!
+
+cd3g	eml2	
+No sentences with co-occurance found!
+
+cd27	elf1	
+No sentences with co-occurance found!
+
+ctsv	kcnj1	
+No sentences with co-occurance found!
+
+cux2	fam197y10	
+No sentences with co-occurance found!
+
+cd27	elf1	
+No sentences with co-occurance found!
+
+serpini2	enpp7p2	
+No sentences with co-occurance found!
+
+cux2	fam197y10	
+No sentences with co-occurance found!
+
+rad23a	ube2l6	
+No sentences with co-occurance found!
+
+serpini2	enpp7p2	
+No sentences with co-occurance found!
+
+c11orf57	fdxacb1	
+No sentences with co-occurance found!
+
+rad23a	ube2l6	
+No sentences with co-occurance found!
+
+pla2g7	itga9	
+No sentences with co-occurance found!
+
+c11orf57	fdxacb1	
+No sentences with co-occurance found!
+
+pdlim3	pag1	
+No sentences with co-occurance found!
+
+pla2g7	itga9	
+No sentences with co-occurance found!
+
+pdlim3	pag1	
+No sentences with co-occurance found!
+
+mdm2	tert	26	ABCDL2R	
+furthermore, the expression of genes that relate to aging, such as p53, p21 and bax, was decreased, while that of [mdm2] and tert genes was increased after treatment with lbps
+
+mdm2	tert	26	ABCDL2R	
+furthermore, the expression of genes that relate to aging, such as p53, p21 and bax, was decreased, while that of [mdm2] and tert genes was increased after treatment with lbps
+
+mdm2	tert	26	ABCDL2R	
+furthermore, the expression of genes that relate to aging, such as p53, p21 and bax, was decreased, while that of [mdm2] and tert genes was increased after treatment with lbps
+
+mdm2	tert	26	ABCDL2R	
+furthermore, the expression of genes that relate to aging, such as p53, p21 and bax, was decreased, while that of [mdm2] and tert genes was increased after treatment with lbps
+
+mdm2	tert	26	ABCDL2R	
+furthermore, the expression of genes that relate to aging, such as p53, p21 and bax, was decreased, while that of [mdm2] and tert genes was increased after treatment with lbps
+
+mdm2	tert	26	ABCDL2R	
+furthermore, the expression of genes that relate to aging, such as p53, p21 and bax, was decreased, while that of [mdm2] and tert genes was increased after treatment with lbps
+
+mdm2	tert	26	ABCDL2R	
+furthermore, the expression of genes that relate to aging, such as p53, p21 and bax, was decreased, while that of [mdm2] and tert genes was increased after treatment with lbps
+
+mc1r	aqp11	
+No sentences with co-occurance found!
+
+pfn1p8	peli3	
+No sentences with co-occurance found!
+
+hpca	tuba4a	
+No sentences with co-occurance found!
+
+mir657	flj45743	
+No sentences with co-occurance found!
+
+elf1	dclk1	
+No sentences with co-occurance found!
+
+wipf3	dsg2	
+No sentences with co-occurance found!
+
+mtnd3p8	slc6a10p	
+No sentences with co-occurance found!
+
+luc7l3p1	mtnd2p20	
+No sentences with co-occurance found!
+
+hspa8p1	gapdhp72	
+No sentences with co-occurance found!
+
+ankrd32	arsk	
+No sentences with co-occurance found!
+
+clk2	snar-a10	
+No sentences with co-occurance found!
+
+runx1t1	dnmt1	
+No sentences with co-occurance found!
+
+c1orf94	oscp1	
+No sentences with co-occurance found!
+
+ldhap7	tagln2p2	
+No sentences with co-occurance found!
+
+znf767p	pcdhb17	
+No sentences with co-occurance found!
+
+slc16a6	abca9	
+No sentences with co-occurance found!
+
+skap1	pard6a	
+No sentences with co-occurance found!
+
+strap	csnk1g2p1	
+No sentences with co-occurance found!
+
+psmd5	galnt4	
+No sentences with co-occurance found!
+
+prkaca	bfar	
+No sentences with co-occurance found!
+
+farsa	ripk3	
+No sentences with co-occurance found!
+
+kcnh4	iglcor22-1	
+No sentences with co-occurance found!
+
+or11h6	ankrd30bp3	
+No sentences with co-occurance found!
+
+tomm20p2	tmem97p1	
+No sentences with co-occurance found!
+
+phbp14	t1560	
+No sentences with co-occurance found!
+
+gria1	slc4a2	
+No sentences with co-occurance found!
+
+fhl3	rpl8p1	
+No sentences with co-occurance found!
+
+tra-agc17-1	optn	
+No sentences with co-occurance found!
+
+slc6a18	gapdhp41	
+No sentences with co-occurance found!
+
+dynll1-as1	rchts	
+No sentences with co-occurance found!
+
+msh6	gpr75	
+No sentences with co-occurance found!
+
+aldh1a2	fam63b	
+No sentences with co-occurance found!
+
+appl1	josd2	
+No sentences with co-occurance found!
+
+nwd2	styk1	
+No sentences with co-occurance found!
+
+katnbl1	dph6	
+No sentences with co-occurance found!
+
+cdh3	cdh11	41	ABCDEL2S	
+[cdh3] and cdh11 are expressed by olfactory ensheathing glia, which surround osn axons in the outer ob
+
+trnar-ucg	ckap5	
+No sentences with co-occurance found!
+
+rpa1	ccdc176	
+No sentences with co-occurance found!
+
+dcr	mctp2	
+No sentences with co-occurance found!
+
+cpsf1p1	fbxo48	
+No sentences with co-occurance found!
+
+c14orf79	psors4	
+No sentences with co-occurance found!
+
+vps45	hoxa9	
+No sentences with co-occurance found!
+
+tceb1p10	hibch	
+No sentences with co-occurance found!
+
+ncr1	rpl23ap14	
+No sentences with co-occurance found!
+
+siglec6	cd37	
+No sentences with co-occurance found!
+
+rrp7a	serhl	
+No sentences with co-occurance found!
+
+mki67p1	fam8a9p	
+No sentences with co-occurance found!
+
+rpl7ap25	riiad1	
+No sentences with co-occurance found!
+
+trs-act1-1	mrpl23	
+No sentences with co-occurance found!
+
+gsdma	fra8b	
+No sentences with co-occurance found!
+
+cnksr2	cxorf23	
+No sentences with co-occurance found!
+
+mc1r	aqp11	
+No sentences with co-occurance found!
+
+pfn1p8	peli3	
+No sentences with co-occurance found!
+
+hpca	tuba4a	
+No sentences with co-occurance found!
+
+mir657	flj45743	
+No sentences with co-occurance found!
+
+elf1	dclk1	
+No sentences with co-occurance found!
+
+wipf3	dsg2	
+No sentences with co-occurance found!
+
+mtnd3p8	slc6a10p	
+No sentences with co-occurance found!
+
+luc7l3p1	mtnd2p20	
+No sentences with co-occurance found!
+
+hspa8p1	gapdhp72	
+No sentences with co-occurance found!
+
+ankrd32	arsk	
+No sentences with co-occurance found!
+
+clk2	snar-a10	
+No sentences with co-occurance found!
+
+runx1t1	dnmt1	
+No sentences with co-occurance found!
+
+c1orf94	oscp1	
+No sentences with co-occurance found!
+
+ldhap7	tagln2p2	
+No sentences with co-occurance found!
+
+znf767p	pcdhb17	
+No sentences with co-occurance found!
+
+slc16a6	abca9	
+No sentences with co-occurance found!
+
+skap1	pard6a	
+No sentences with co-occurance found!
+
+strap	csnk1g2p1	
+No sentences with co-occurance found!
+
+psmd5	galnt4	
+No sentences with co-occurance found!
+
+prkaca	bfar	
+No sentences with co-occurance found!
+
+farsa	ripk3	
+No sentences with co-occurance found!
+
+kcnh4	iglcor22-1	
+No sentences with co-occurance found!
+
+or11h6	ankrd30bp3	
+No sentences with co-occurance found!
+
+tomm20p2	tmem97p1	
+No sentences with co-occurance found!
+
+phbp14	t1560	
+No sentences with co-occurance found!
+
+gria1	slc4a2	
+No sentences with co-occurance found!
+
+fhl3	rpl8p1	
+No sentences with co-occurance found!
+
+tra-agc17-1	optn	
+No sentences with co-occurance found!
+
+slc6a18	gapdhp41	
+No sentences with co-occurance found!
+
+dynll1-as1	rchts	
+No sentences with co-occurance found!
+
+msh6	gpr75	
+No sentences with co-occurance found!
+
+aldh1a2	fam63b	
+No sentences with co-occurance found!
+
+appl1	josd2	
+No sentences with co-occurance found!
+
+nwd2	styk1	
+No sentences with co-occurance found!
+
+katnbl1	dph6	
+No sentences with co-occurance found!
+
+cdh3	cdh11	41	ABCDEL2S	
+[cdh3] and cdh11 are expressed by olfactory ensheathing glia, which surround osn axons in the outer ob
+
+trnar-ucg	ckap5	
+No sentences with co-occurance found!
+
+rpa1	ccdc176	
+No sentences with co-occurance found!
+
+dcr	mctp2	
+No sentences with co-occurance found!
+
+cpsf1p1	fbxo48	
+No sentences with co-occurance found!
+
+c14orf79	psors4	
+No sentences with co-occurance found!
+
+vps45	hoxa9	
+No sentences with co-occurance found!
+
+tceb1p10	hibch	
+No sentences with co-occurance found!
+
+ncr1	rpl23ap14	
+No sentences with co-occurance found!
+
+siglec6	cd37	
+No sentences with co-occurance found!
+
+rrp7a	serhl	
+No sentences with co-occurance found!
+
+mki67p1	fam8a9p	
+No sentences with co-occurance found!
+
+rpl7ap25	riiad1	
+No sentences with co-occurance found!
+
+trs-act1-1	mrpl23	
+No sentences with co-occurance found!
+
+gsdma	fra8b	
+No sentences with co-occurance found!
+
+cnksr2	cxorf23	
+No sentences with co-occurance found!
+
+fam110d	chst2	
+No sentences with co-occurance found!
+
+casp7	ablim1	
+No sentences with co-occurance found!
+
+ccl18	tp53	
+No sentences with co-occurance found!
+
+dhrs9	mir520f	
+No sentences with co-occurance found!
+
+rpl10p5	cox16	
+No sentences with co-occurance found!
+
+mir1273e	cd8b	
+No sentences with co-occurance found!
+
+gage4	gage7	
+No sentences with co-occurance found!
+
+dusp4	rbpms	
+No sentences with co-occurance found!
+
+psd2	tm2d3	
+No sentences with co-occurance found!
+
+app	ddx55	
+No sentences with co-occurance found!
+
+s100a12	spta1	
+No sentences with co-occurance found!
+
+cicp17	mir184	
+No sentences with co-occurance found!
+
+ogn	tgfbr1	
+No sentences with co-occurance found!
+
+cd1c	ddit4	
+No sentences with co-occurance found!
+
+slc6a3	mrpl36	
+No sentences with co-occurance found!
+
+flvcr2	lilrb2	
+No sentences with co-occurance found!
+
+jak2	stat1	71	ABCDEFKL2RS	
+[jak2] inhibitors reduced h2o2-induced pstat1, suggesting the involvement of this kinase in the increased phosphorylation of stat1 by peroxide
+
+eed	hspe1p12	
+No sentences with co-occurance found!
+
+ccdc106	lrif1	
+No sentences with co-occurance found!
+
+slc6a7	dyz1l20	
+No sentences with co-occurance found!
+
+trs-cga4-1	pgrmc2	
+No sentences with co-occurance found!
+
+gtf2f1	rna5sp405	
+No sentences with co-occurance found!
+
+nfx1	nup153	
+No sentences with co-occurance found!
+
+skp1	tbl1x	
+No sentences with co-occurance found!
+
+tulp3p1	mcop1	
+No sentences with co-occurance found!
+
+phf3	eys	27	ABCDP2	
+we previously reported a risk genomic region (ie, ptp4a1-phf3-eys) for alcohol dependence in a genome-wide association study (gwas)
+
+sgsm3	rbm22p11	
+No sentences with co-occurance found!
+
+trim35	rna5sp517	
+No sentences with co-occurance found!
+
+bcl2l2	bid	
+No sentences with co-occurance found!
+
+c3orf79	actg1p3	
+No sentences with co-occurance found!
+
+cds2	stt3b	
+No sentences with co-occurance found!
+
+linc01231	adcy10p1	
+No sentences with co-occurance found!
+
+penk	imp4	
+No sentences with co-occurance found!
+
+snord124	rnu7-2p	
+No sentences with co-occurance found!
+
+ddx24	krt18p49	
+No sentences with co-occurance found!
+
+ubiad1	znf275	
+No sentences with co-occurance found!
+
+macom	or5b12	
+No sentences with co-occurance found!
+
+csf1r	thoc5	
+No sentences with co-occurance found!
+
+nacap5	exd3	
+No sentences with co-occurance found!
+
+mir559	il13ra1	
+No sentences with co-occurance found!
+
+cd3g	eml2	
+No sentences with co-occurance found!
+
+ctsv	kcnj1	
+No sentences with co-occurance found!
+
+cd27	elf1	
+No sentences with co-occurance found!
+
+cux2	fam197y10	
+No sentences with co-occurance found!
+
+serpini2	enpp7p2	
+No sentences with co-occurance found!
+
+rad23a	ube2l6	
+No sentences with co-occurance found!
+
+c11orf57	fdxacb1	
+No sentences with co-occurance found!
+
+pla2g7	itga9	
+No sentences with co-occurance found!
+
+pdlim3	pag1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	
+No sentences with co-occurance found!
+
+ar	pou2f1	46	ABCIJK2	
+oct1 [pou2f1] negatively regulates dht-mediated enhancer activity in a subset of arors
+
+mc1r	aqp11	
+No sentences with co-occurance found!
+
+pfn1p8	peli3	
+No sentences with co-occurance found!
+
+hpca	tuba4a	
+No sentences with co-occurance found!
+
+mir657	flj45743	
+No sentences with co-occurance found!
+
+elf1	dclk1	
+No sentences with co-occurance found!
+
+wipf3	dsg2	
+No sentences with co-occurance found!
+
+mtnd3p8	slc6a10p	
+No sentences with co-occurance found!
+
+luc7l3p1	mtnd2p20	
+No sentences with co-occurance found!
+
+hspa8p1	gapdhp72	
+No sentences with co-occurance found!
+
+ankrd32	arsk	
+No sentences with co-occurance found!
+
+mc1r	aqp11	
+No sentences with co-occurance found!
+
+pfn1p8	peli3	
+No sentences with co-occurance found!
+
+hpca	tuba4a	
+No sentences with co-occurance found!
+
+mir657	flj45743	
+No sentences with co-occurance found!
+
+elf1	dclk1	
+No sentences with co-occurance found!
+
+wipf3	dsg2	
+No sentences with co-occurance found!
+
+mtnd3p8	slc6a10p	
+No sentences with co-occurance found!
+
+luc7l3p1	mtnd2p20	
+No sentences with co-occurance found!
+
+hspa8p1	gapdhp72	
+No sentences with co-occurance found!
+
+ankrd32	arsk	
+No sentences with co-occurance found!
+
+clk2	snar-a10	
+No sentences with co-occurance found!
+
+runx1t1	dnmt1	22	ABKLN2	
+dna methyltransferases (dnmt) inhibitors like 5-aza-2'deoxycytidine (aza-cdr) and histone deacetylase (hdac) inhibitors like trichostatin a (tsa) have been proposed as agents to enhance reactivation and have shown activity in model systems
+
+c1orf94	oscp1	
+No sentences with co-occurance found!
+
+ldhap7	tagln2p2	
+No sentences with co-occurance found!
+
+znf767p	pcdhb17	
+No sentences with co-occurance found!
+
+slc16a6	abca9	
+No sentences with co-occurance found!
+
+skap1	pard6a	
+No sentences with co-occurance found!
+
+strap	csnk1g2p1	
+No sentences with co-occurance found!
+
+psmd5	galnt4	
+No sentences with co-occurance found!
+
+prkaca	bfar	
+No sentences with co-occurance found!
+
+farsa	ripk3	
+No sentences with co-occurance found!
+
+kcnh4	iglcor22-1	
+No sentences with co-occurance found!
+
+or11h6	ankrd30bp3	
+No sentences with co-occurance found!
+
+tomm20p2	tmem97p1	
+No sentences with co-occurance found!
+
+phbp14	t1560	
+No sentences with co-occurance found!
+
+gria1	slc4a2	
+No sentences with co-occurance found!
+
+fhl3	rpl8p1	
+No sentences with co-occurance found!
+
+tra-agc17-1	optn	
+No sentences with co-occurance found!
+
+slc6a18	gapdhp41	
+No sentences with co-occurance found!
+
+dynll1-as1	rchts	
+No sentences with co-occurance found!
+
+msh6	gpr75	
+No sentences with co-occurance found!
+
+aldh1a2	fam63b	
+No sentences with co-occurance found!
+
+appl1	josd2	
+No sentences with co-occurance found!
+
+nwd2	styk1	
+No sentences with co-occurance found!
+
+katnbl1	dph6	
+No sentences with co-occurance found!
+
+cdh3	cdh11	41	ABCDEL2S	
+[cdh3] and cdh11 are expressed by olfactory ensheathing glia, which surround osn axons in the outer ob
+
+trnar-ucg	ckap5	
+No sentences with co-occurance found!
+
+rpa1	ccdc176	
+No sentences with co-occurance found!
+
+dcr	mctp2	
+No sentences with co-occurance found!
+
+cpsf1p1	fbxo48	
+No sentences with co-occurance found!
+
+c14orf79	psors4	
+No sentences with co-occurance found!
+
+vps45	hoxa9	
+No sentences with co-occurance found!
+
+tceb1p10	hibch	
+No sentences with co-occurance found!
+
+ncr1	rpl23ap14	
+No sentences with co-occurance found!
+
+siglec6	cd37	
+No sentences with co-occurance found!
+
+rrp7a	serhl	
+No sentences with co-occurance found!
+
+mki67p1	fam8a9p	
+No sentences with co-occurance found!
+
+rpl7ap25	riiad1	
+No sentences with co-occurance found!
+
+trs-act1-1	mrpl23	
+No sentences with co-occurance found!
+
+gsdma	fra8b	
+No sentences with co-occurance found!
+
+cnksr2	cxorf23	
+No sentences with co-occurance found!
+
+fam110d	chst2	
+No sentences with co-occurance found!
+
+casp7	ablim1	
+No sentences with co-occurance found!
+
+ccl18	tp53	24	ABKL2	
+these data suggested a role for p193/cul7 in the regulation of apoptosis independently of p53 [tp53] and parc [ccl18] activity.
+
+dhrs9	mir520f	
+No sentences with co-occurance found!
+
+rpl10p5	cox16	
+No sentences with co-occurance found!
+
+mir1273e	cd8b	
+No sentences with co-occurance found!
+
+gage4	gage7	
+No sentences with co-occurance found!
+
+dusp4	rbpms	
+No sentences with co-occurance found!
+
+psd2	tm2d3	
+No sentences with co-occurance found!
+
+app	ddx55	
+No sentences with co-occurance found!
+
+s100a12	spta1	
+No sentences with co-occurance found!
+
+cicp17	mir184	
+No sentences with co-occurance found!
+
+ogn	tgfbr1	
+No sentences with co-occurance found!
+
+cd1c	ddit4	
+No sentences with co-occurance found!
+
+slc6a3	mrpl36	
+No sentences with co-occurance found!
+
+flvcr2	lilrb2	
+No sentences with co-occurance found!
+
+jak2	stat1	69	ABCDKLNQ2RSRS	
+inhibition of the [jak2]/stat1 signaling pathway, using ag490 (a [jak2] inhibitor), a dominant-negative form of stat1, and socs1 and socs3 overexpression, reduced levels of bace1 promoter activity, expression of endogenous bace1, and generation of abeta
+
+eed	hspe1p12	
+No sentences with co-occurance found!
+
+ccdc106	lrif1	
+No sentences with co-occurance found!
+
+slc6a7	dyz1l20	
+No sentences with co-occurance found!
+
+trs-cga4-1	pgrmc2	
+No sentences with co-occurance found!
+
+gtf2f1	rna5sp405	
+No sentences with co-occurance found!
+
+nfx1	nup153	
+No sentences with co-occurance found!
+
+skp1	tbl1x	25	ABCKL2	
+previously, we discovered a novel pathway for p53-induced beta-catenin degradation through a ubiquitin e3 ligase complex involving siah1, sip (cacybp), skp1, and ebi [tbl1x]
+
+tulp3p1	mcop1	
+No sentences with co-occurance found!
+
+phf3	eys	27	ABCDP2	
+we previously reported a risk genomic region (ie, ptp4a1-phf3-eys) for alcohol dependence in a genome-wide association study (gwas)
+
+sgsm3	rbm22p11	
+No sentences with co-occurance found!
+
+trim35	rna5sp517	
+No sentences with co-occurance found!
+
+bcl2l2	bid	24	ABCDLN2R	
+we also found a lower abundance of pro-apoptotic transcripts and/or proteins (caspase-3, caspase-8, caspase-9, bid, id2 and daxx) and a higher expression of anti-apoptotic transcripts (traf2 and bcl2l2) in dm muscles
+
+c3orf79	actg1p3	
+No sentences with co-occurance found!
+
+cds2	stt3b	
+No sentences with co-occurance found!
+
+linc01231	adcy10p1	
+No sentences with co-occurance found!
+
+penk	imp4	
+No sentences with co-occurance found!
+
+snord124	rnu7-2p	
+No sentences with co-occurance found!
+
+ddx24	krt18p49	
+No sentences with co-occurance found!
+
+ubiad1	znf275	
+No sentences with co-occurance found!
+
+macom	or5b12	
+No sentences with co-occurance found!
+
+csf1r	thoc5	20	ABG2	
+fms [csf1r] interacting protein (fmip) is a substrate for fms tyrosine kinase, and a nuclear/cytoplasm shuttling protein with a leucine zipper
+
+nacap5	exd3	
+No sentences with co-occurance found!
+
+mir559	il13ra1	
+No sentences with co-occurance found!
+
+cd3g	eml2	
+No sentences with co-occurance found!
+
+ctsv	kcnj1	
+No sentences with co-occurance found!
+
+cd27	elf1	
+No sentences with co-occurance found!
+
+cux2	fam197y10	
+No sentences with co-occurance found!
+
+serpini2	enpp7p2	
+No sentences with co-occurance found!
+
+rad23a	ube2l6	
+No sentences with co-occurance found!
+
+c11orf57	fdxacb1	
+No sentences with co-occurance found!
+
+pla2g7	itga9	
+No sentences with co-occurance found!
+
+pdlim3	pag1	
+No sentences with co-occurance found!
+
+mc1r	aqp11	
+No sentences with co-occurance found!
+
+pfn1p8	peli3	
+No sentences with co-occurance found!
+
+hpca	tuba4a	
+No sentences with co-occurance found!
+
+mir657	flj45743	
+No sentences with co-occurance found!
+
+elf1	dclk1	
+No sentences with co-occurance found!
+
+wipf3	dsg2	
+No sentences with co-occurance found!
+
+mtnd3p8	slc6a10p	
+No sentences with co-occurance found!
+
+luc7l3p1	mtnd2p20	
+No sentences with co-occurance found!
+
+hspa8p1	gapdhp72	
+No sentences with co-occurance found!
+
+ankrd32	arsk	
+No sentences with co-occurance found!
+
+clk2	snar-a10	
+No sentences with co-occurance found!
+
+runx1t1	dnmt1	22	ABKLN2	
+dna methyltransferases (dnmt) inhibitors like 5-aza-2'deoxycytidine (aza-cdr) and histone deacetylase (hdac) inhibitors like trichostatin a (tsa) have been proposed as agents to enhance reactivation and have shown activity in model systems
+
+c1orf94	oscp1	
+No sentences with co-occurance found!
+
+ldhap7	tagln2p2	
+No sentences with co-occurance found!
+
+znf767p	pcdhb17	
+No sentences with co-occurance found!
+
+slc16a6	abca9	
+No sentences with co-occurance found!
+
+skap1	pard6a	
+No sentences with co-occurance found!
+
+strap	csnk1g2p1	
+No sentences with co-occurance found!
+
+psmd5	galnt4	
+No sentences with co-occurance found!
+
+prkaca	bfar	
+No sentences with co-occurance found!
+
+farsa	ripk3	
+No sentences with co-occurance found!
+
+kcnh4	iglcor22-1	
+No sentences with co-occurance found!
+
+or11h6	ankrd30bp3	
+No sentences with co-occurance found!
+
+tomm20p2	tmem97p1	
+No sentences with co-occurance found!
+
+phbp14	t1560	
+No sentences with co-occurance found!
+
+gria1	slc4a2	
+No sentences with co-occurance found!
+
+fhl3	rpl8p1	
+No sentences with co-occurance found!
+
+tra-agc17-1	optn	
+No sentences with co-occurance found!
+
+slc6a18	gapdhp41	
+No sentences with co-occurance found!
+
+dynll1-as1	rchts	
+No sentences with co-occurance found!
+
+msh6	gpr75	
+No sentences with co-occurance found!
+
+aldh1a2	fam63b	
+No sentences with co-occurance found!
+
+appl1	josd2	
+No sentences with co-occurance found!
+
+nwd2	styk1	
+No sentences with co-occurance found!
+
+katnbl1	dph6	
+No sentences with co-occurance found!
+
+cdh3	cdh11	41	ABCDEL2S	
+[cdh3] and cdh11 are expressed by olfactory ensheathing glia, which surround osn axons in the outer ob
+
+trnar-ucg	ckap5	
+No sentences with co-occurance found!
+
+rpa1	ccdc176	
+No sentences with co-occurance found!
+
+dcr	mctp2	
+No sentences with co-occurance found!
+
+cpsf1p1	fbxo48	
+No sentences with co-occurance found!
+
+c14orf79	psors4	
+No sentences with co-occurance found!
+
+vps45	hoxa9	
+No sentences with co-occurance found!
+
+tceb1p10	hibch	
+No sentences with co-occurance found!
+
+ncr1	rpl23ap14	
+No sentences with co-occurance found!
+
+siglec6	cd37	
+No sentences with co-occurance found!
+
+rrp7a	serhl	
+No sentences with co-occurance found!
+
+mki67p1	fam8a9p	
+No sentences with co-occurance found!
+
+rpl7ap25	riiad1	
+No sentences with co-occurance found!
+
+trs-act1-1	mrpl23	
+No sentences with co-occurance found!
+
+gsdma	fra8b	
+No sentences with co-occurance found!
+
+cnksr2	cxorf23	
+No sentences with co-occurance found!
+
+fam110d	chst2	
+No sentences with co-occurance found!
+
+casp7	ablim1	
+No sentences with co-occurance found!
+
+ccl18	tp53	24	ABKL2	
+these data suggested a role for p193/cul7 in the regulation of apoptosis independently of p53 [tp53] and parc [ccl18] activity.
+
+dhrs9	mir520f	
+No sentences with co-occurance found!
+
+rpl10p5	cox16	
+No sentences with co-occurance found!
+
+mir1273e	cd8b	
+No sentences with co-occurance found!
+
+gage4	gage7	
+No sentences with co-occurance found!
+
+dusp4	rbpms	
+No sentences with co-occurance found!
+
+psd2	tm2d3	
+No sentences with co-occurance found!
+
+app	ddx55	
+No sentences with co-occurance found!
+
+s100a12	spta1	
+No sentences with co-occurance found!
+
+cicp17	mir184	
+No sentences with co-occurance found!
+
+ogn	tgfbr1	
+No sentences with co-occurance found!
+
+cd1c	ddit4	
+No sentences with co-occurance found!
+
+slc6a3	mrpl36	
+No sentences with co-occurance found!
+
+flvcr2	lilrb2	
+No sentences with co-occurance found!
+
+jak2	stat1	69	ABCDKLNQ2RSRS	
+inhibition of the [jak2]/stat1 signaling pathway, using ag490 (a [jak2] inhibitor), a dominant-negative form of stat1, and socs1 and socs3 overexpression, reduced levels of bace1 promoter activity, expression of endogenous bace1, and generation of abeta
+
+eed	hspe1p12	
+No sentences with co-occurance found!
+
+ccdc106	lrif1	
+No sentences with co-occurance found!
+
+slc6a7	dyz1l20	
+No sentences with co-occurance found!
+
+trs-cga4-1	pgrmc2	
+No sentences with co-occurance found!
+
+gtf2f1	rna5sp405	
+No sentences with co-occurance found!
+
+nfx1	nup153	
+No sentences with co-occurance found!
+
+skp1	tbl1x	25	ABCKL2	
+previously, we discovered a novel pathway for p53-induced beta-catenin degradation through a ubiquitin e3 ligase complex involving siah1, sip (cacybp), skp1, and ebi [tbl1x]
+
+tulp3p1	mcop1	
+No sentences with co-occurance found!
+
+phf3	eys	27	ABCDP2	
+we previously reported a risk genomic region (ie, ptp4a1-phf3-eys) for alcohol dependence in a genome-wide association study (gwas)
+
+sgsm3	rbm22p11	
+No sentences with co-occurance found!
+
+trim35	rna5sp517	
+No sentences with co-occurance found!
+
+bcl2l2	bid	24	ABCDLN2R	
+we also found a lower abundance of pro-apoptotic transcripts and/or proteins (caspase-3, caspase-8, caspase-9, bid, id2 and daxx) and a higher expression of anti-apoptotic transcripts (traf2 and bcl2l2) in dm muscles
+
+c3orf79	actg1p3	
+No sentences with co-occurance found!
+
+cds2	stt3b	
+No sentences with co-occurance found!
+
+linc01231	adcy10p1	
+No sentences with co-occurance found!
+
+penk	imp4	
+No sentences with co-occurance found!
+
+snord124	rnu7-2p	
+No sentences with co-occurance found!
+
+ddx24	krt18p49	
+No sentences with co-occurance found!
+
+ubiad1	znf275	
+No sentences with co-occurance found!
+
+macom	or5b12	
+No sentences with co-occurance found!
+
+csf1r	thoc5	20	ABG2	
+fms [csf1r] interacting protein (fmip) is a substrate for fms tyrosine kinase, and a nuclear/cytoplasm shuttling protein with a leucine zipper
+
+nacap5	exd3	
+No sentences with co-occurance found!
+
+mir559	il13ra1	
+No sentences with co-occurance found!
+
+cd3g	eml2	
+No sentences with co-occurance found!
+
+ctsv	kcnj1	
+No sentences with co-occurance found!
+
+cd27	elf1	
+No sentences with co-occurance found!
+
+cux2	fam197y10	
+No sentences with co-occurance found!
+
+serpini2	enpp7p2	
+No sentences with co-occurance found!
+
+rad23a	ube2l6	
+No sentences with co-occurance found!
+
+c11orf57	fdxacb1	
+No sentences with co-occurance found!
+
+pla2g7	itga9	
+No sentences with co-occurance found!
+
+pdlim3	pag1	
+No sentences with co-occurance found!
+
+ar	pou2f1	46	ABCIJK2	
+oct1 [pou2f1] negatively regulates dht-mediated enhancer activity in a subset of arors
+
+ar	pou2f1	46	ABCIJK2	
+oct1 [pou2f1] negatively regulates dht-mediated enhancer activity in a subset of arors
+
+ar	pou2f1	46	ABCIJK2	
+oct1 [pou2f1] negatively regulates dht-mediated enhancer activity in a subset of arors
+
+dnah5	large	
+No sentences with co-occurrence found!
+
+dnah5	tle1	
+No sentences with co-occurrence found!
+
+dnah5	mvp	
+No sentences with co-occurrence found!
+
+dnah5	ran	
+No sentences with co-occurrence found!
+
+dnah5	mical1	
+No sentences with co-occurrence found!
+
+dnah5	rbfox2	
+No sentences with co-occurrence found!
+
+dnai1	mettl21b	
+No sentences with co-occurrence found!
+
+dnai1	npr2	
+No sentences with co-occurrence found!
+
+dnai1	zic3	
+No sentences with co-occurrence found!
+
+dnah5	large	
+No sentences with co-occurrence found!
+
+dnah5	tle1	
+No sentences with co-occurrence found!
+
+dnah5	mvp	
+No sentences with co-occurrence found!
+
+dnah5	ran	
+No sentences with co-occurrence found!
+
+dnah5	mical1	
+No sentences with co-occurrence found!
+
+dnah5	rbfox2	
+No sentences with co-occurrence found!
+
+dnai1	mettl21b	
+No sentences with co-occurrence found!
+
+dnai1	npr2	
+No sentences with co-occurrence found!
+
+dnai1	zic3	
+No sentences with co-occurrence found!
+
+dnah5	large	
+No sentences with co-occurrence found!
+
+dnah5	tle1	
+No sentences with co-occurrence found!
+
+dnah5	mvp	
+No sentences with co-occurrence found!
+
+dnah5	ran	
+No sentences with co-occurrence found!
+
+dnah5	mical1	
+No sentences with co-occurrence found!
+
+dnah5	rbfox2	
+No sentences with co-occurrence found!
+
+dnai1	mettl21b	
+No sentences with co-occurrence found!
+
+dnai1	npr2	
+No sentences with co-occurrence found!
+
+dnai1	zic3	
+No sentences with co-occurrence found!
+
+dnai1	gldc	69	[2, 11, 12, 18, 26, 28]	
+moreover, met and Protein2, the bhlh-pas transcription factors involved in jh action, were shown to induce Protein1 by upregulating dronc and drice
+
+ap1b1	pard3	
+No sentences with co-occurrence found!
+
+ap1b1	cyth4	
+No sentences with co-occurrence found!
+
+ap1b1	phf5a	
+No sentences with co-occurrence found!
+
+ap1b1	fbxo7	
+No sentences with co-occurrence found!
+
+ap1b1	cdc42ep1	
+No sentences with co-occurrence found!
+
+ap1b1	psme1	
+No sentences with co-occurrence found!
+
+ap1b1	me1	30	[18, 27, 28]	
+the potency of Protein1 was 33.5% of maxiProtein2 possible effect  mpe  at 24 h, and the antinociception persisted for at least 1 h
+
+ap1b1	tex33	
+No sentences with co-occurrence found!
+
+ap2b1	vsig4	
+No sentences with co-occurrence found!
+
+ap2b1	pkp1	
+No sentences with co-occurrence found!
+
+ap2b1	sertad2	
+No sentences with co-occurrence found!
+
+ap2b1	lrrfip1	
+No sentences with co-occurrence found!
+
+ap2b1	eftud2	
+No sentences with co-occurrence found!
+
+ap2b1	nos2	
+No sentences with co-occurrence found!
+
+or1f1	pkd1	
+No sentences with co-occurrence found!
+
+pcsk5	sh3glb1	
+No sentences with co-occurrence found!
+
+pde2a	spag7	
+No sentences with co-occurrence found!
+
+pde2a	rps6ka4	
+No sentences with co-occurrence found!
+
+pde2a	rps3	
+No sentences with co-occurrence found!
+
+pde4a	smarca4	
+No sentences with co-occurrence found!
+
+pdpk1	pkd1	48	[12, 18, 26, 28]	
+the data show that in embryonic stem cells and thymocytes loss of Protein2 does not prevent pkc-mediated phosphorylation and activation of Protein1
+
+pex10	snx17	
+No sentences with co-occurrence found!
+
+pigb	smad6	
+No sentences with co-occurrence found!
+
+pik3r4	smad6	
+No sentences with co-occurrence found!
+
+pkd1	rpl3l	
+No sentences with co-occurrence found!
+
+pkd1	sox17	
+No sentences with co-occurrence found!
+
+pkd1l1	rpl6	
+No sentences with co-occurrence found!
+
+pkd1l1	plcb2	
+No sentences with co-occurrence found!
+
+pkd1l1	psme3	
+No sentences with co-occurrence found!
+
+plagl1	zbtb14	
+No sentences with co-occurrence found!
+
+plxnd1	sec61a1	
+No sentences with co-occurrence found!
+
+plxnd1	tmcc1	3	[12, 18]	
+the genes podxl2, plexin-d1, gata-2, and Protein1 are also located within the smaller critical interval of the pakistani hcfp family
+
+plxnd1	podxl2	3	[12, 18]	
+the genes Protein1, plexin-d1, gata-2, and tmcc1 are also located within the smaller critical interval of the pakistani hcfp family
+
+prdm1	utp18	
+No sentences with co-occurrence found!
+
+prickle1	tyr	
+No sentences with co-occurrence found!
+
+prkcsh	smarca4	
+No sentences with co-occurrence found!
+
+ccdc151	fdx1l	
+No sentences with co-occurrence found!
+
+oasl	ddx58 	
+No sentences with co-occurrence found!
+
+dnah5	large	
+No sentences with co-occurrence found!
+
+dnah5	tle1	
+No sentences with co-occurrence found!
+
+dnah5	mvp	
+No sentences with co-occurrence found!
+
+dnah5	ran	
+No sentences with co-occurrence found!
+
+dnah5	mical1	
+No sentences with co-occurrence found!
+
+dnah5	rbfox2	
+No sentences with co-occurrence found!
+
+dnai1	mettl21b	
+No sentences with co-occurrence found!
+
+dnai1	npr2	
+No sentences with co-occurrence found!
+
+dnai1	zic3	
+No sentences with co-occurrence found!
+
+dnai1	gldc	69	[2, 11, 12, 18, 26, 28]	
+moreover, met and Protein2, the bhlh-pas transcription factors involved in jh action, were shown to induce Protein1 by upregulating dronc and drice
+
+ap1b1	pard3	
+No sentences with co-occurrence found!
+
+ap1b1	cyth4	
+No sentences with co-occurrence found!
+
+ap1b1	phf5a	
+No sentences with co-occurrence found!
+
+ap1b1	fbxo7	
+No sentences with co-occurrence found!
+
+ap1b1	cdc42ep1	
+No sentences with co-occurrence found!
+
+ap1b1	psme1	
+No sentences with co-occurrence found!
+
+ap1b1	me1	30	[18, 27, 28]	
+the potency of Protein1 was 33.5% of maxiProtein2 possible effect  mpe  at 24 h, and the antinociception persisted for at least 1 h
+
+ap1b1	tex33	
+No sentences with co-occurrence found!
+
+ap2b1	vsig4	
+No sentences with co-occurrence found!
+
+ap2b1	pkp1	
+No sentences with co-occurrence found!
+
+ap2b1	sertad2	
+No sentences with co-occurrence found!
+
+ap2b1	lrrfip1	
+No sentences with co-occurrence found!
+
+ap2b1	eftud2	
+No sentences with co-occurrence found!
+
+ap2b1	nos2	
+No sentences with co-occurrence found!
+
+or1f1	pkd1	
+No sentences with co-occurrence found!
+
+pcsk5	sh3glb1	
+No sentences with co-occurrence found!
+
+pde2a	spag7	
+No sentences with co-occurrence found!
+
+pde2a	rps6ka4	
+No sentences with co-occurrence found!
+
+pde2a	rps3	
+No sentences with co-occurrence found!
+
+pde4a	smarca4	
+No sentences with co-occurrence found!
+
+pdpk1	pkd1	48	[12, 18, 26, 28]	
+the data show that in embryonic stem cells and thymocytes loss of Protein2 does not prevent pkc-mediated phosphorylation and activation of Protein1
+
+pex10	snx17	
+No sentences with co-occurrence found!
+
+pigb	smad6	
+No sentences with co-occurrence found!
+
+pik3r4	smad6	
+No sentences with co-occurrence found!
+
+pkd1	rpl3l	
+No sentences with co-occurrence found!
+
+pkd1	sox17	
+No sentences with co-occurrence found!
+
+pkd1l1	rpl6	
+No sentences with co-occurrence found!
+
+pkd1l1	plcb2	
+No sentences with co-occurrence found!
+
+pkd1l1	psme3	
+No sentences with co-occurrence found!
+
+plagl1	zbtb14	
+No sentences with co-occurrence found!
+
+plxnd1	sec61a1	
+No sentences with co-occurrence found!
+
+plxnd1	tmcc1	3	[12, 18]	
+the genes podxl2, plexin-d1, gata-2, and Protein1 are also located within the smaller critical interval of the pakistani hcfp family
+
+plxnd1	podxl2	3	[12, 18]	
+the genes Protein1, plexin-d1, gata-2, and tmcc1 are also located within the smaller critical interval of the pakistani hcfp family
+
+prdm1	utp18	
+No sentences with co-occurrence found!
+
+prickle1	tyr	
+No sentences with co-occurrence found!
+
+prkcsh	smarca4	
+No sentences with co-occurrence found!
+
+ccdc151	fdx1l	
+No sentences with co-occurrence found!
+
+oasl	ddx58 	
+No sentences with co-occurrence found!
+
+dnah5	large	
+No sentences with co-occurrence found!
+
+dnah5	tle1	
+No sentences with co-occurrence found!
+
+dnah5	mvp	
+No sentences with co-occurrence found!
+
+dnah5	ran	
+No sentences with co-occurrence found!
+
+dnah5	mical1	
+No sentences with co-occurrence found!
+
+dnah5	rbfox2	
+No sentences with co-occurrence found!
+
+dnai1	mettl21b	
+No sentences with co-occurrence found!
+
+dnai1	npr2	
+No sentences with co-occurrence found!
+
+dnai1	zic3	
+No sentences with co-occurrence found!
+
+tert	mdm2	30	[14, 18, 26, 27, 28]	
+polymorphisms in three dna repair genes, tp53, Protein2, and ogg1, and two metabolic genes, cyp1a1 and gstm1, were examined for associations with lung sqc risk in a hospital-based case-control study consisting of 377 cases and 325 controls, which had been previously subjected to association studies on gwas genes, chrna3, Protein1, and hla-dqa1.
+
+clip-170	lis1	59	[2, 11, 12, 18, 1, 27, 28]	
+we propose that conformational changes in Protein1 are important for binding to dynactin, Protein2, and the mt tips.
+
+clip-170	lis1	59	[2, 11, 12, 18, 1, 27, 28]	
+we propose that conformational changes in Protein1 are important for binding to dynactin, Protein2, and the mt tips.
